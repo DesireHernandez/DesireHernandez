@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Welcome to my GitHub landing Page!<br>I'm Desire, a recent Computer Science graduate from California State University, Fullerton.<br>I gained so much knowledge and hands-on experience throughout my four years at CSUF and I'm excited to take the next step by applying it to real-world scenarios!<br>🔭 I'm currently working on a personal website.<br>💬 Ask me about my senior capstone project and work experience!<br>📫 Reach me at hernandezdesire2025@gmail.com<br>⚡Fun fact: My reading goal is 35 this year!
+Hi! Welcome to my GitHub landing Page!<br>I'm Desire, a recent Computer Science graduate from California State University, Fullerton.<br>I gained so much knowledge and hands-on experience throughout my four years at CSUF and I'm excited to take the next step by applying it to real-world scenarios!<br>🔭 I'm currently working on a personal website.<br>💬 Ask me about my senior capstone project and work experience!<br>📫 Reach me at hernandezdesire2025@gmail.com<br>⚡Fun fact: My reading goal is 30 this year!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DesireHernandez&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
