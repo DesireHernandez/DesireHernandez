@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Welcome to my GitHub landing Page!<br><br>I'm Desire, a graduate student pursing my masters in computer science at California State University, Fullerton.<br>I gained so much knowledge and hands-on experience throughout my four years at CSUF and I'm excited to take the next step by applying it to real-world scenarios!<br><br>🔭 I'm currently working on a reading wrap up. <br>💬 Ask me about my senior capstone project and work experience!<br>📫 Reach me at hernandezdesire2025@gmail.com<br>📖Currently Reading: The Last Sunrise by Anna Todd
+Hi! Welcome to my GitHub landing Page!<br><br>I'm Desire, a graduate student pursing my masters in computer science at California State University, Fullerton.<br>I gained so much knowledge and hands-on experience throughout my four years at CSUF and I'm excited to take the next step by applying it to real-world scenarios!<br><br>🔭 I'm currently working on a reading wrap up. <br>💬 Ask me about my senior capstone project and work experience!<br>📫 Reach me at hernandezdesire2025@gmail.com<br>📖Currently Reading: Queen of Shadows by Sarah J. Maas
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=desirehernandez&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=desirehernandez&theme=radical&hide_border=false)<br/>
